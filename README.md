@@ -1,1 +1,1 @@
-# fun-time-app
+# Fun Time App
